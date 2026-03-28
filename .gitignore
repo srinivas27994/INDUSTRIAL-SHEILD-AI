@@ -1,0 +1,5 @@
+app.log
+*.log
+*.db
+Thumbs.db
+.DS_Store
